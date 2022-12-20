@@ -26,3 +26,5 @@
 
 ### ⚔️ My Codewars profile:
 [![codewars](https://www.codewars.com/users/bormash2/badges/large)](https://www.codewars.com/users/bormash2)   
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
