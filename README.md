@@ -22,7 +22,7 @@
   </a> 
 
 ### 📊 My stats:
-![Bogdan GitHub stats](https://github-readme-stats.vercel.app/api?username=Bormash1991&show_icons=true&theme=black)
+![Bogdan GitHub stats](https://github-readme-stats.vercel.app/api?username=Bormash1991&show_icons=true&theme=dark)
 
 ### ⚔️ My Codewars profile:
 [![codewars](https://www.codewars.com/users/Bormash1991/badges/large)](https://www.codewars.com/users/bormash2) 
