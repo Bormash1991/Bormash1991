@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Lutsenko Bohdan
 
 ### 👨‍💻 About me:
-- 🔭 I’m currently working on hys_angular project!
+- 🔭 I’m currently working on angular-store project!
 - 🌱 I’m currently learning Angular
 
 
